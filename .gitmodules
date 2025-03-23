@@ -10,3 +10,6 @@
 [submodule "luci-theme-argon"]
 	path = luci-theme-argon
 	url = https://github.com/jjm2473/luci-theme-argon.git
+[submodule "luci-app-passwall2"]
+	path = luci-app-passwall2
+	url = https://github.com/xiaorouji/openwrt-passwall2
